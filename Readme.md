@@ -14,5 +14,5 @@ Integrantes do Grupo: Breno Moreno Sanches, Daniela Kauani Corte Dias, Felipe Ol
 <br>
 
 <p align="center">
-  <img alt="projeto Noldsz" src=".github/SOMENTE LOGO - Copia.png" width="100%">
+  <img alt="projeto Noldsz" src="/New Project/projeto-mensal/1 VERSAO/SOMENTE LOGO.png" width="100%">
 </p>
