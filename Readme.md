@@ -13,7 +13,7 @@ Integrantes do Grupo: Breno Moreno Sanches, Daniela Kauani Corte Dias, Felipe Ol
 <br>
 
 <p align="center">
-Descrição: O escopo deste prohjeto abrange o planejamento, desenvolvimento e implementação do site da NOLDZS, incluindo seus principais recursos e funcionalidades. O foco é o desenvolvimento Front-End, o site será um convite para explorar o universo de nossa empresa chamada NOLDZS, destacando nossos serviços e compartilhando nossa experiência ao longo da carreira. Apresentamos um portfólio diversificado, exibindo projetos emblemáticos que demonstram nossa expertise e dedicação. Ao navegar por nosso site, os visitantes terão a oportunidade de conhecer nossa abordagem, valores e compromisso com a excelência.
+Descrição: O escopo deste projeto abrange o planejamento, desenvolvimento e implementação do site da NOLDZS, incluindo seus principais recursos e funcionalidades. O foco é o desenvolvimento Front-End, o site será um convite para explorar o universo de nossa empresa chamada NOLDZS, destacando nossos serviços e compartilhando nossa experiência ao longo da carreira. Apresentamos um portfólio diversificado, exibindo projetos emblemáticos que demonstram nossa expertise e dedicação. Ao navegar por nosso site, os visitantes terão a oportunidade de conhecer nossa abordagem, valores e compromisso com a excelência.
 </p>
 
 <p align="center">
@@ -62,3 +62,4 @@ O sistema deve incluir uma seção exibindo a logo dos clientes que a empresa j�
 <p align="center">
 Tecnologias: Por enquanto usaremos html e css. Ao longo da jornada adicionaremos mais tecnologias como js,boostrap e google analytics.
 </p>
+teste
