@@ -18,6 +18,7 @@ Descrição: O escopo deste projeto abrange o planejamento, desenvolvimento e im
 
 <p align="center">
 Requisitos funcionais: 
+
 RF01 - Formulário de Contato e WhatsApp  
 
 O sistema deve permitir que o usuário entre em contato com a empresa através de um formulário e/ou por pelo WhatsApp. 
