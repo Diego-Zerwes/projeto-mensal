@@ -3,7 +3,7 @@ Projeto: NOLDZS
 <h1 align="center"> Noldsz </h1>
 
 <p align="center">
-  <img alt="projeto Noldsz" src="SOMENTE LOGO.png" width="100%">
+  <img alt="projeto Noldsz" src="SOMENTE LOGO.png" width="200" height="200">
 </p>
 
 <p align="center">
