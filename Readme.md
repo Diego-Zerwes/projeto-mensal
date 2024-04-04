@@ -13,19 +13,24 @@ Projeto: NOLDZS
 </p>
 
 <p align="center">
-<h3> Integrantes do Grupo </h3> : Breno Moreno Sanches, Daniela Kauani Corte Dias, Felipe Oliveira Fernandes, Diego Zerwes Feitosa, Leandro So Fun Hsu Liu e Nasser Nader Al Masri.
+<h3> Integrantes do Grupo </h3>
+Breno Moreno Sanches, Daniela Kauani Corte Dias, Felipe Oliveira Fernandes, Diego Zerwes Feitosa, Leandro So Fun Hsu Liu e Nasser Nader Al Masri.
 </p>
 
 <br>
 
+
 <p align="center">
-<h3> Descrição </h3> :
+
+<h3> Descrição </h3>
 O escopo deste projeto abrange o planejamento, desenvolvimento e implementação do site da NOLDZS, incluindo seus principais recursos e funcionalidades. O foco é o desenvolvimento Front-End, o site será um convite para explorar o universo de nossa empresa chamada NOLDZS, destacando nossos serviços e compartilhando nossa experiência ao longo da carreira. Apresentamos um portfólio diversificado, exibindo projetos emblemáticos que demonstram nossa expertise e dedicação. Ao navegar por nosso site, os visitantes terão a oportunidade de conhecer nossa abordagem, valores e compromisso com a excelência.>>>>>>> main
 
 </p>
 
+
 <p align="center">
-<h3> Requisitos funcionais </h3>: 
+
+<h3> Requisitos funcionais </h3>
 
 RF01 - Formulário de Contato e WhatsApp  
 
@@ -68,7 +73,9 @@ RF10 - Portfólio de Clientes
 O sistema deve incluir uma seção exibindo a logo dos clientes que a empresa já prestou serviços.
 </p>
 
+
 <p align="center">
-<h3>Tecnologias</h3>:
+<h3>Tecnologias</h3>
+
 Por enquanto usaremos html e css. Ao longo da jornada adicionaremos mais tecnologias como js,boostrap e google analytics.
 </p>
