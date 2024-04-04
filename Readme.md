@@ -2,8 +2,14 @@ Projeto: NOLDZS
 
 <h1 align="center"> NOLDZS </h1>
 
+teste diego
+
 <p align="center">
+<<<<<<< HEAD
   <img alt="projeto Noldzs" src="/projeto-mensal/SOMENTE LOGO.png" width="100%">
+=======
+  <img alt="projeto Noldsz" src="SOMENTE LOGO.png" width="200" height="200">
+>>>>>>> 5fb6246605ea6405e454578a7ac8fa4f089dd58e
 </p>
 
 <p align="center">
@@ -63,4 +69,4 @@ O sistema deve incluir uma seção exibindo a logo dos clientes que a empresa j�
 <p align="center">
 Tecnologias: Por enquanto usaremos html e css. Ao longo da jornada adicionaremos mais tecnologias como js,boostrap e google analytics.
 </p>
-
+mais um teste !!!!
