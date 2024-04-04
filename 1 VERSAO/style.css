@@ -34,6 +34,7 @@ footer{
 }
 
 header {
+
     position: fixed;
     top: 0;
     left: 0;
@@ -41,6 +42,7 @@ header {
     width: 100%;
     height: 80px;
     padding: 1rem;
+    z-index: 100;
     transition: all .2s ease;
 }
 
@@ -73,7 +75,13 @@ ul.links {
 
 .logo {
     height: 80px;
-    width: auto;
+    width: 80px;
+    
+}
+
+.logo img {
+    height: 100%;
+    width: 100%;
     object-fit: contain;
 }
 
@@ -103,17 +111,20 @@ section.hero {
 
 
 section#services {
-    height: 75vh;
+    height: 120vh;
     width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    
     /* padding: 4rem 0rem; */
     margin: 2rem 0rem;
     /* column-gap: 2rem; */
     /* background: #d9d9d9; */
 }
+
+
 
 section#services .services-title {
     font-size: 32px;
@@ -121,10 +132,13 @@ section#services .services-title {
 }
 
 section#services .service-cards {
-    width: 100%;
-
+    width: 80%;
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    row-gap: 50px;
     justify-content: space-evenly;
+
 }
 
 section#services .service-cards .service-card {
@@ -152,6 +166,7 @@ section#services .service-cards .service-card .service-card_img img {
     height: 100%;
     object-fit: contain;
 }
+
 
 .service-card .service-card_img .service-icon {
     position: absolute;
@@ -311,7 +326,7 @@ section#services .service-cards .service-card .service-card_img img {
 
 
 
-.o_que_e_noldzs .texto_imagem{
+/* .o_que_e_noldzs .texto_imagem{
     border: solid none;
     width: 1920px;
     height: 1698px;
@@ -345,18 +360,18 @@ section#services .service-cards .service-card .service-card_img img {
     width: 732px;
     height: 392px;
     margin-top: 20px;
-}
+} */
 
-.paragrafo1 p{
+/* .paragrafo1 p{
     color: #2E2E2E;
     font-family: Roboto;
     font-size: 40px;
     font-style: normal;
     font-weight: 500;
-    line-height: 56px; /* 140% */
+    line-height: 56px; 
     letter-spacing: 0.8px;
-}
-
+} */
+/* 
 .paragrafo2{
     width: 732px;
     margin-top: 10px;
@@ -381,9 +396,9 @@ section#services .service-cards .service-card .service-card_img img {
 .botao_descricao{
     padding-left: 791px;
     margin-top: -166px;
-}
+} */
 
-.botao_descricao button{
+ /* .botao_descricao button{
     border: none;
     width: 338px;
     height: 95px;
@@ -464,7 +479,7 @@ section#services .service-cards .service-card .service-card_img img {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-}
+} */
 
 .nav-toggle {
     display: none;
