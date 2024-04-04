@@ -1,9 +1,9 @@
 Projeto: NOLDZS 
 
-<h1 align="center"> Noldsz </h1>
+<h1 align="center"> NOLDZS </h1>
 
 <p align="center">
-  <img alt="projeto Noldsz" src="/projeto-mensal/SOMENTE LOGO.png" width="100%">
+  <img alt="projeto Noldzs" src="/projeto-mensal/SOMENTE LOGO.png" width="100%">
 </p>
 
 <p align="center">
