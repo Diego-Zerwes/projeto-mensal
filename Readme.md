@@ -2,6 +2,8 @@ Projeto: NOLDZS
 
 <h1 align="center"> Noldsz </h1>
 
+teste diego
+
 <p align="center">
   <img alt="projeto Noldsz" src="SOMENTE LOGO.png" width="200" height="200">
 </p>
