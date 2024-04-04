@@ -4,9 +4,6 @@ Projeto: NOLDZS
 
 <h1 align="center"> NOLDZS </h1>
 
-teste diego
-
-teste diego
 
 <p align="center">
 
