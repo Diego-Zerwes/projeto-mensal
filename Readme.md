@@ -1,11 +1,18 @@
-Projeto: NOLDZS 
+Projeto: NOLDZS
 
-<h1 align="center"> Noldsz </h1>
+
+
+<h1 align="center"> NOLDZS </h1>
+
+teste diego
 
 teste diego
 
 <p align="center">
+
   <img alt="projeto Noldsz" src="SOMENTE LOGO.png" width="200" height="200">
+
+
 </p>
 
 <p align="center">
