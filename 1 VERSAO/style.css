@@ -67,6 +67,17 @@ header .cabecalho {
     position: relative;
 }
 
+.flex-container{
+    height: 100%;
+    width: 90%;
+    display: flex;
+
+}
+
+.flex1{
+    flex: 1;
+}
+
 ul.links {
     display: flex;
     align-items: center;
@@ -324,43 +335,70 @@ section#services .service-cards .service-card .service-card_img img {
 }
 
 
+.o_que_e_noldzs{
+    display: flex;
+    flex-flow: row wrap;
+    align-self: center;
+    justify-content: center;
+    flex-direction: column;
+}
 
-
-/* .o_que_e_noldzs .texto_imagem{
-    border: solid none;
-    width: 1920px;
-    height: 1698px;
-    background-color: white;
+.o_que_e_noldzs p{
+    padding: 15px;
+    /* margin: 20px; */
+    align-items: center;
 }
 
 .texto_imagem{
     display: flex;
+   
 }
 
-.imagem_homem img{
-    margin-top: 179.66px;
-    margin-left: 146px;
+.imagem_homem {
+    text-align: end;
+    justify-content: space-between;
+    
 }
-
-.titulo3{
+/* .titulo3{
     margin-top: 100px;
     margin-left: 53.59px;
-}
+} */
 
-.titulo3 p{
+.titulo3{
     color: #451179;
     font-family: Poppins;
-    font-size: 40px;
+    font-size: 24px;
     font-style: normal;
-    font-weight: 500;
     line-height: normal;
 }
 
+.paragrafo2{
+    font-size: 22px;
+    line-height: 32px; /* 140% */
+}
+
 .paragrafo1{
-    width: 732px;
-    height: 392px;
-    margin-top: 20px;
-} */
+    font-weight: 500; 
+} 
+
+ .paragrafo3{
+    
+} 
+
+.paragrafo3{
+    /* height: 1000%; */
+    width: 180%;
+    margin-left: 22%;
+    color: #451179;
+    display: flex;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+     
+    line-height: normal;
+}
+
 
 /* .paragrafo1 p{
     color: #2E2E2E;
