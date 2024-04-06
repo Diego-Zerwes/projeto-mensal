@@ -236,18 +236,17 @@
         <div class="titulo4">
             <p>PORTIFOLIO DO CLIENTE</p>
         </div>
-        <section>
-        <div class="portifolio_cliente">
+        <section id="container-cliente">
 
-            <div class="tudo">
-
+            <!-- <div class="service-cards"> -->
+            
                 <div class="cliente1">
                     <div class="titulo_cliente1">
                         <p>Protogeo</p>
                     </div>
 
                     <div class="imagem_cliente1">
-                        <img src="/cliente1.png" alt="" width="492" height="281">
+                        <img src="/cliente1.png" alt="" width="450" height="281">
                     </div>
 
                     <div class="botao_clientes">
@@ -282,8 +281,9 @@
                         <button>Ver Site</button>
                     </div>
                 </div>
-            </div>
-        </div>
+            <!-- </div> -->
+            
+       
     </section>
     </main>
 
@@ -298,6 +298,7 @@
         $(window).on('scroll', function () {
             if ($(window).scrollTop() > 600) {
                 $('#header').addClass('colored');
+                
             } else {
                 $("#header").removeClass('colored');
             }
