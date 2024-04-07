@@ -62,6 +62,7 @@ header .cabecalho {
     justify-content: space-between;
     margin: 0 auto;
     position: relative;
+<<<<<<< HEAD
 =======
   height: 100%;
   width: 80%;
@@ -78,6 +79,20 @@ header .cabecalho {
   display: flex;
   flex-direction: column;
 >>>>>>> Stashed changes
+=======
+    
+}
+
+.flex-container{
+    height: 100%;
+    width: 90%;
+    display: flex;
+
+}
+
+.flex1{
+    flex: 1;
+>>>>>>> 4abff6c7aca089009cc9ebfdcc67e68f96edc287
 }
 
 ul.links {
@@ -132,7 +147,7 @@ section#services {
     align-items: center;
     
     /* padding: 4rem 0rem; */
-    margin: 2rem 0rem;
+    margin: 2rem 0rem 10rem;
     /* column-gap: 2rem; */
     /* background: #d9d9d9; */
 =======
@@ -183,8 +198,12 @@ section#services .service-cards .service-card {
 }
 
 section#services .service-cards .service-card .service-card_img {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     height: 50%;
+=======
+    height: 100%;
+>>>>>>> 4abff6c7aca089009cc9ebfdcc67e68f96edc287
     width: 100%;
     position: relative;
 }
@@ -192,6 +211,7 @@ section#services .service-cards .service-card .service-card_img {
 section#services .service-cards .service-card .service-card_img img {
     width: 100%;
     height: 100%;
+    border-radius: 12px 12px 0px 0px;
     object-fit: contain;
 =======
   height: 100%;
@@ -236,12 +256,16 @@ section#services .service-cards .service-card .service-card_img img {
 }
 
 .service-card .service-card_content .card-content_action button {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     border: 2px solid lightcoral;
+=======
+    border: 2px solid #5177FF;
+>>>>>>> 4abff6c7aca089009cc9ebfdcc67e68f96edc287
     outline: none;
     padding: 0.75rem 1.25rem;
     font-size: 16px;
-    background: lightcoral;
+    background: #5177FF;
     color: #eee;
     border-radius: 15px;
     transform: scale(1);
@@ -253,10 +277,11 @@ section#services .service-cards .service-card .service-card_img img {
 
 .service-card .service-card_content .card-content_action button:hover {
     background: transparent;
-    color: lightcoral;
+    color: #5177FF;
     transform: scale(1.02);
 }
 
+<<<<<<< HEAD
 =======
   border: 2px solid #5177ff;
   outline: none;
@@ -299,6 +324,39 @@ section#services .service-card .service-icon:hover {
 }
 
 >>>>>>> Stashed changes
+=======
+section#services .service-card:hover{
+    border: 3px solid #451179;
+    /* outline: none; */
+    /* padding: 0.75rem 1.25rem; */
+    font-size: 16px;
+    /* background: #5177FF; */
+    /* color: #eee; */
+    border-radius: 15px;
+    /* transform: scale(1); */
+    /* transition: all .4s ease-in-out; */
+    /* text-align: center; */
+    transition: all .4s ease-in-out;
+    box-shadow: 0px 2px 10px rbga(4, 4, 4, 0.125);
+}
+section#services .service-card .service-icon:hover{
+    background: #933491;
+    color: white;
+    transition: all .4s ease-out;
+    /* color: #5177FF; */
+    /* transform: scale(1.02);  */
+    /* transform: scale(1.02); */
+ }
+ section#services .service-card .service-icon:hover{
+    fill: #451179;
+ }
+
+.service-icon{
+    filter: drop-shadow(0px 5px 20px rgba(0, 0, 0, 0.10));
+
+ }
+
+>>>>>>> 4abff6c7aca089009cc9ebfdcc67e68f96edc287
 .slogan {
   font-size: 64px;
   color: #eee;
@@ -378,7 +436,7 @@ section#services .service-card .service-icon:hover {
     height: 56px;
     border: none;
     background-color: #5177FF;
-    color: #FFF;
+    color: #5177FF;
     font-family: Poppins;
     font-size: 32px;
     font-style: normal;
@@ -387,39 +445,50 @@ section#services .service-card .service-icon:hover {
 }
 
 
+.o_que_e_noldzs{
+    display: flex;
+    flex-flow: row wrap;
+    align-self: center;
+    justify-content: center;
+    flex-direction: column;
+}
 
-
-/* .o_que_e_noldzs .texto_imagem{
-    border: solid none;
-    width: 1920px;
-    height: 1698px;
-    background-color: white;
+.o_que_e_noldzs p{
+    padding: 15px;
+    /* margin: 20px; */
+    align-items: center;
 }
 
 .texto_imagem{
     display: flex;
+   
 }
 
-.imagem_homem img{
-    margin-top: 179.66px;
-    margin-left: 146px;
+.imagem_homem {
+    text-align: end;
+    justify-content: space-between;
+    
 }
-
-.titulo3{
+/* .titulo3{
     margin-top: 100px;
     margin-left: 53.59px;
-}
+} */
 
-.titulo3 p{
+.titulo3{
     color: #451179;
     font-family: Poppins;
-    font-size: 40px;
+    font-size: 24px;
     font-style: normal;
-    font-weight: 500;
     line-height: normal;
 }
 
+.paragrafo2{
+    font-size: 22px;
+    line-height: 32px; /* 140% */
+}
+
 .paragrafo1{
+<<<<<<< HEAD
     width: 732px;
     height: 392px;
     margin-top: 20px;
@@ -587,6 +656,45 @@ section#container-cliente {
   transform: scale(1.02);
 }
 >>>>>>> Stashed changes
+=======
+    font-weight: 500; 
+} 
+
+ .paragrafo3{
+    
+} 
+
+.paragrafo3{
+    /* height: 1000%; */
+    width: 180%;
+    margin-left: 22%;
+    color: #451179;
+    display: flex;
+    text-align: justify;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+     
+    line-height: normal;
+}
+
+section#container-cliente {
+    height: 120vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+    /* padding: 4rem 0rem; */
+    margin: 2rem 0rem 10rem;
+    /* column-gap: 2rem; */
+    /* background: #d9d9d9; */
+}
+
+
+
+>>>>>>> 4abff6c7aca089009cc9ebfdcc67e68f96edc287
 
 /* .paragrafo1 p{
     color: #2E2E2E;
