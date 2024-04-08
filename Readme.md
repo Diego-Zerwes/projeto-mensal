@@ -7,7 +7,7 @@ Projeto: NOLDZS
 
 <p align="center">
 
-  <img alt="projeto Noldsz" src="SOMENTE LOGO.png" width="200" height="200">
+  <img alt="projeto Noldsz" src="./imagens/SOMENTE LOGO.png" width="200" height="200">
 
 
 </p>
